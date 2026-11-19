@@ -38,3 +38,6 @@ A comunicação entre a aplicação Java e o banco de dados é realizada por mei
 
 ---
 Projeto desenvolvido como atividade acadêmica.
+
+## Execução do projeto
+Para executar o sistema, é necessário ter o Java 17 e o MySQL instalados e configurar a conexão com o banco de dados no arquivo Conexao.java.
